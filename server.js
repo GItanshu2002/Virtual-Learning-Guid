@@ -23,6 +23,3 @@ adminLogin.get_adminLogin();
 app.listen(5000, () => {
   console.log("Example app listening on port 5000:", 5000);
 });
-
-// websit Strecture:
-// https://stackgeeks.invisionapp.com/console/share/PMV58SUJ4WR/982425829/play
